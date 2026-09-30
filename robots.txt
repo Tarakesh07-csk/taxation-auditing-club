@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After publishing, replace YOUR-USERNAME below:
+# Sitemap: https://YOUR-USERNAME.github.io/taxation-auditing-club/sitemap.xml
